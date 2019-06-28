@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c7b43a90-2ced-4a6f-afc0-2c37175a49b7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/Basics.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/Arithmatic/Arithmatic.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/Arithmatic/src/ArithmaticClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/Core.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/PrimitiveDataTypes/PrimitiveDataTypes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/PrimitiveDataTypes/src/DataTypes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/Relational/Relational.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/Relational/src/relational.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/array/arraytut.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/array/resources/META-INF/plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/array/src/arraytut.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/arrayListsample/arrayListsample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/arrayListsample/resources/META-INF/plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/arrayListsample/src/arraylistsample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/ifElse/ifElse.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/ifElse/resources/META-INF/plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/ifElse/src/ifElse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/logical/logical.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/logical/resources/META-INF/plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/logical/src/logical.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/methods/methods.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/methods/resources/META-INF/plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/methods/src/methods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/out/production/Arithmatic/ArithmaticClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/out/production/Core/Variables.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/out/production/PrimitiveDataTypes/DataTypes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/out/production/arrayListsample/META-INF/plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/out/production/arrayListsample/arraylistsample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/out/production/arraytut/META-INF/plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/out/production/arraytut/arraytut.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/out/production/ifElse/META-INF/plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/out/production/ifElse/ifElse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/out/production/logical/META-INF/plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/out/production/logical/logical.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/out/production/methods/META-INF/plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/out/production/methods/methods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/out/production/switchCase/META-INF/plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/out/production/switchCase/switchCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/out/production/whileLoop/META-INF/plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/out/production/whileLoop/whileLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/Variables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/switchCase/resources/META-INF/plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/switchCase/src/switchCase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/switchCase/switchCase.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/untitled/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/whileLoop/resources/META-INF/plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/whileLoop/src/whileLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/whileLoop/whileLoop.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello-World/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello-World/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello-World/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello-World/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello-World/Hello-World.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello-World/out/production/Hello-World/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello-World/src/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sumOfN/src/somOfN.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sumOfN/sumOfN.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/.idea/University.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/Progs/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/Progs/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/Progs/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/Progs/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/Progs/FtoC/FtoC.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/Progs/FtoC/resources/META-INF/plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/Progs/FtoC/src/FtoC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/Progs/Progs.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/Progs/compare2numbers/compare2numbers.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/Progs/compare2numbers/resources/META-INF/plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/Progs/compare2numbers/src/comparenumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/Progs/compare3nums/compare3nums.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/Progs/compare3nums/resources/META-INF/plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/Progs/compare3nums/src/compare3nums.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/Progs/evenandodd/evenandodd.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/Progs/evenandodd/resources/META-INF/plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/Progs/evenandodd/src/evenandodd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/Progs/factorial/factorial.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/Progs/factorial/resources/META-INF/plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/Progs/factorial/src/factorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/Progs/leapYear/leapYear.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/Progs/leapYear/resources/META-INF/plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/Progs/leapYear/src/leapYear.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/Progs/out/production/FtoC/FtoC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/Progs/out/production/FtoC/META-INF/plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/Progs/out/production/Progs/AddTwoNumsByUsers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/Progs/out/production/compare2numbers/META-INF/plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/Progs/out/production/compare2numbers/comparenumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/Progs/out/production/compare3nums/META-INF/plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/Progs/out/production/compare3nums/compare3nums.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/Progs/out/production/evenandodd/META-INF/plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/Progs/out/production/evenandodd/evenandodd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/Progs/out/production/factorial/META-INF/plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/Progs/out/production/factorial/factorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/Progs/out/production/leapYear/META-INF/plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/Progs/out/production/leapYear/leapYear.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/Progs/out/production/randomnums/META-INF/plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/Progs/out/production/randomnums/randomnums.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/Progs/out/production/simplePattern/META-INF/plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/Progs/out/production/simplePattern/pattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/Progs/randomnums/randomnums.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/Progs/randomnums/resources/META-INF/plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/Progs/randomnums/src/randomnums.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/Progs/simplePattern/resources/META-INF/plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/Progs/simplePattern/simplePattern.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/Progs/simplePattern/src/pattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/Progs/src/AddTwoNumsByUsers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/sumOfNnums/src/sumofN.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/sumOfNnums/sumOfNnums.iml" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/variables.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1366" />
+    <option name="height" value="768" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553465337413" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7b43a90-2ced-4a6f-afc0-2c37175a49b7" name="Default Changelist" comment="" />
+      <created>1553465076816</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553465076816</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1366" height="768" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25377643" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/variables.java" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
