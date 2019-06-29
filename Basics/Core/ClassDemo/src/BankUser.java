@@ -20,6 +20,7 @@ public class BankUser {
         SbiUser Puneet = new SbiUser("Puneet Kumar");
         Puneet.accAge(19);
         Puneet.accAmount(30);
+        Puneet.accTax("sdkfksd");
         Puneet.getUserInfo();
 
     }

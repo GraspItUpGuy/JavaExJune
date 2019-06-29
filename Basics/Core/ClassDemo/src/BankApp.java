@@ -30,7 +30,7 @@ public class BankApp {
     public void getUserInfo() {
         System.out.println("Name of user is :" + this.name);
         System.out.println("age of user is :" + this.age);
-        System.out.println("Tax Details of user is :" + this.taxDetail);
+
         System.out.println("amount of user is :" + this.amount);
     }
 
