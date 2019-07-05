@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0534c8b6-4de2-4ec6-b5bc-c0326e717b9d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DateDay/DateDay.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DateDay/src/DateDay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GenericsTutu/GenericsTutu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GenericsTutu/src/GenericsDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -21,13 +21,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DateDay/src/DateDay.java">
+        <entry file="file://$PROJECT_DIR$/GenericsTutu/src/GenericsDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="108">
+              <caret line="4" column="53" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -54,6 +51,7 @@
         <option value="$PROJECT_DIR$/TryCatch/src/TryCatchLec.java" />
         <option value="$PROJECT_DIR$/MalURL/src/MalURL.java" />
         <option value="$PROJECT_DIR$/DateDay/src/DateDay.java" />
+        <option value="$PROJECT_DIR$/GenericsTutu/src/GenericsDemo.java" />
       </list>
     </option>
   </component>
@@ -87,8 +85,7 @@
             <path>
               <item name="Core" type="b2602c69:ProjectViewProjectNode" />
               <item name="Core" type="462c0819:PsiDirectoryNode" />
-              <item name="DateDay" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="GenericsTutu" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Core" type="b2602c69:ProjectViewProjectNode" />
@@ -138,7 +135,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DateDay">
+  <component name="RunManager" selected="Application.GenericsDemo">
     <configuration name="DateDay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DateDay" />
       <module name="DateDay" />
@@ -146,16 +143,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MalURL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MalURL" />
-      <module name="MalURL" />
+    <configuration name="GenericsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GenericsDemo" />
+      <module name="GenericsTutu" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SelectionSort" />
-      <module name="Sorting_Algorithms" />
+    <configuration name="MalURL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MalURL" />
+      <module name="MalURL" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -176,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GenericsDemo" />
         <item itemvalue="Application.DateDay" />
         <item itemvalue="Application.MalURL" />
         <item itemvalue="Application.TryCatchLec" />
         <item itemvalue="Application.insertionSort" />
-        <item itemvalue="Application.SelectionSort" />
       </list>
     </recent_temporary>
   </component>
@@ -201,7 +198,7 @@
     <frame x="0" y="0" width="1366" height="768" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14577039" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14577039" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -210,7 +207,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2965616" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2965616" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -277,11 +274,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DateDay/src/DateDay.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+        <state relative-caret-position="93">
+          <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GenericsTutu/src/GenericsDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="53" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
         </state>
       </provider>
     </entry>
