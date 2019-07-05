@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Core.iml" filepath="$PROJECT_DIR$/Core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DateDay/DateDay.iml" filepath="$PROJECT_DIR$/DateDay/DateDay.iml" />
       <module fileurl="file://$PROJECT_DIR$/InsertionSort/InsertionSort.iml" filepath="$PROJECT_DIR$/InsertionSort/InsertionSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/MalURL/MalURL.iml" filepath="$PROJECT_DIR$/MalURL/MalURL.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sorting_Algorithms/Sorting_Algorithms.iml" filepath="$PROJECT_DIR$/Sorting_Algorithms/Sorting_Algorithms.iml" />
