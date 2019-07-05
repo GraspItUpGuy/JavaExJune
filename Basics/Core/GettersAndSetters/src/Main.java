@@ -45,7 +45,7 @@ class MyClass{
         return accNo;
     }
 
-    public void setAccNo(int accNo) {
+    public void setAccNo(int accNo)g {
         this.accNo = accNo;
     }
 }
