@@ -7,6 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/GenericsTutu/GenericsTutu.iml" filepath="$PROJECT_DIR$/GenericsTutu/GenericsTutu.iml" />
       <module fileurl="file://$PROJECT_DIR$/InsertionSort/InsertionSort.iml" filepath="$PROJECT_DIR$/InsertionSort/InsertionSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/MalURL/MalURL.iml" filepath="$PROJECT_DIR$/MalURL/MalURL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaxiFinder/MaxiFinder.iml" filepath="$PROJECT_DIR$/MaxiFinder/MaxiFinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyLinkedList/MyLinkedList.iml" filepath="$PROJECT_DIR$/MyLinkedList/MyLinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sorting_Algorithms/Sorting_Algorithms.iml" filepath="$PROJECT_DIR$/Sorting_Algorithms/Sorting_Algorithms.iml" />
       <module fileurl="file://$PROJECT_DIR$/TryCatch/TryCatch.iml" filepath="$PROJECT_DIR$/TryCatch/TryCatch.iml" />
     </modules>
